@@ -1,6 +1,6 @@
 # XmlDocument
 
-A lightweight, self-contained C++17 XML object model and parser for Windows. XmlDocument provides a simple yet powerful hierarchy for representing XML documents in memory with a clean DOM-style interface for construction, traversal, and serialization.
+A lightweight, self-contained C++17 XML object model and parser for Windows. XmlDocument provides a simple hierarchy for representing XML documents in memory with a DOM-style interface for construction, traversal, and serialization.
 
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2B-blue)](https://github.com/JimFawcett/XmlDocument)
 [![C++17](https://img.shields.io/badge/C%2B%2B-17-orange)](https://github.com/JimFawcett/XmlDocument)
@@ -351,7 +351,7 @@ This library is intentionally kept simple and focused. It provides essential XML
 
 For detailed design notes and additional documentation, visit:
 
-**[Official Documentation](https://JimFawcett.github.io/XmlDocument.html)**
+**[Official Documentation](https://jimfawcett.github.io/NewSite/PageHost.html?src=https://jimfawcett.github.io/NewSite/Rust/ExploreReposRust.html?src=https://jimfawcett.github.io/NewSite/Rust/RepoRust_RustLogger.html)**
 
 ## Contributing
 
