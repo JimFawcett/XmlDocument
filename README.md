@@ -1,9 +1,3 @@
-Understood — here is the **entire README**, **sections 1–9 inclusive**, inside **one single Markdown code block** so ChatGPT will show **one “Copy code” button**.
-
-Just click the copy button once and you’ll have the whole file.
-
----
-
 ````markdown
 # XmlDocument
 
