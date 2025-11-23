@@ -353,7 +353,7 @@ For detailed design notes and additional documentation, visit:
 
 **[WebSite Documentation](https://jimfawcett.github.io/NewSite/Cpp/RepoCpp_XmlDocument.html)**
 
-## Contributing
+<!-- ## Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -368,7 +368,7 @@ Contributions are welcome! Here's how you can help:
 - Write clear commit messages
 - Add tests for new functionality where appropriate
 - Update documentation as needed
-- Keep changes focused and atomic
+- Keep changes focused and atomic -->
 
 ## License
 
