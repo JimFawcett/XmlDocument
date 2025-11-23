@@ -351,7 +351,7 @@ This library is intentionally kept simple and focused. It provides essential XML
 
 For detailed design notes and additional documentation, visit:
 
-**[Official Documentation](https://jimfawcett.github.io/NewSite/Cpp/RepoCpp_XmlDocument.html)**
+**[WebSite Documentation](https://jimfawcett.github.io/NewSite/Cpp/RepoCpp_XmlDocument.html)**
 
 ## Contributing
 
